@@ -1,0 +1,8 @@
+# Render.com deployment configuration
+# This file tells Render how to build and run the app.
+
+# Build command
+# pip install -r requirements.txt
+
+# Start command
+# streamlit run app.py --server.port $PORT --server.address 0.0.0.0 --server.headless true
